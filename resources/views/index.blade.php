@@ -174,7 +174,7 @@
                            Welcome to
                        </div>
                    
-                       <div class="tp-caption tp-resizeme text-333 font-weight-500 letter-spacing-3"
+                       <div class="tp-caption tp-resizeme text-6e6 font-weight-500 letter-spacing-3"
                            data-x="['left','left','left','center']" data-hoffset="['7','7','7','0']"
                            data-y="['middle','middle','middle','middle']" data-voffset="['-62','-62','-62','-62']"
                            data-fontsize="['72','72','72','46']"
@@ -201,7 +201,7 @@
                         <img src="https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467&q=80" alt="" data-bgposition="center center" data-no-retina>
                        
                         <!-- Layers -->
-                        <div class="tp-caption tp-resizeme text-333 font-weight-300 text-right"
+                        <div class="tp-caption tp-resizeme text-333 font-weight-300 text-right "
                             data-x="['right','right','right','center']" data-hoffset="['172','167','167','0']"
                             data-y="['middle','middle','middle','middle']" data-voffset="['-43','-43','-43','-83']"
                             data-fontsize="['24','24','24','24']"
@@ -239,44 +239,6 @@
                             data-splitout="none" 
                             data-responsive_offset="on">
                             Women‘s Collection
-                        </div>
-
-                        <div class="tp-caption tp-resizeme text-6e6 font-weight-400 text-right"
-                            data-x="['right','right','right','center']" data-hoffset="['120','117','117','0']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['74','77','77','77']"
-                            data-fontsize="['18','18','18','16']"
-                            data-lineheight="['72','72','72','38']"
-                            data-width="full"
-                            data-height="none"
-                            data-whitespace="normal"
-                            data-transform_idle="o:1;"
-                            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                            data-mask_in="x:0px;y:[100%];" 
-                            data-mask_out="x:inherit;y:inherit;" 
-                            data-start="1000" 
-                            data-splitin="none" 
-                            data-splitout="none" 
-                            data-responsive_offset="on">
-                            BIG SALE OF THIS WEEK UP TO 30%
-                        </div>
-
-                        <div class="tp-caption text-right"
-                            data-x="['right','right','right','center']" data-hoffset="['170','170','170','0']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['142','142','142','142']"
-                            data-width="full"
-                            data-height="none"
-                            data-whitespace="normal"
-                            data-transform_idle="o:1;"
-                            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                            data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                            data-mask_in="x:0px;y:[100%];" 
-                            data-mask_out="x:inherit;y:inherit;" 
-                            data-start="1000" 
-                            data-splitin="none" 
-                            data-splitout="none" 
-                            data-responsive_offset="on">
-                            <a href="#" class="themesflat-button has-padding-36 bg-accent has-shadow"><span>SHOP NOW</span></a>
                         </div>
                     </li>
                     <!-- /End Slide 2 -->
